@@ -3,7 +3,7 @@ Console.WriteLine("Hvordan er vejret udenfor?");
 var vejr = Console.ReadLine();
 Console.Clear();
 
-Console.WriteLine("Hvor mange grader er det udenfor?");
+Console.WriteLine("Hvor mange grader er det?");
 int grader = Convert.ToInt32(Console.ReadLine());
 Console.Clear();
 
