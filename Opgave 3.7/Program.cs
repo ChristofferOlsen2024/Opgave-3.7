@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hvordan er vejret udenfor?");
-var vejr = Console.ReadLine();
+string vejr = Console.ReadLine();
 Console.Clear();
 
 Console.WriteLine("Hvor mange grader er det?");
